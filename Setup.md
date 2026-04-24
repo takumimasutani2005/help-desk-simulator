@@ -7,9 +7,8 @@
 - Git
 
 ## Local Setup
-
+download the zip "helpdesk-simulator-vulnerable 2.zip"
 ```bash
-git clone <your-repo-link>
 cd helpdesk-simulator-vulnerable
 python3 -m venv venv
 source venv/bin/activate
